@@ -1,4 +1,4 @@
-<img src="banner.jpg alt="profile-banner" width="100%" />
+<img src="banner.jpg" alt="profile-banner" width="100%" />
 # 💫 About Me:
 I am a passionate full-stack developer with a strong interest in building scalable and efficient web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.<br><br>💬 Ask Me About<br>Full-stack web development<br>JavaScript, Node.js, Express<br>MySQL & database design<br>RESTful APIs<br>JWT authentication & security best practices<br><br>🚧 Currently Working On<br>Implementing secure authentication using JWT<br>Enhancing role-based access control<br>Improving backend performance & scalability<br><br>🎉 Fun Facts<br>I can debug faster with music on<br>I love naming variables almost as much as I love writing clean code<br>I believe coffee is a backend developer’s true friend
 
